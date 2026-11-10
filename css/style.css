@@ -1,0 +1,23 @@
+:root {
+--primary-color: #0f4c81; 
+--accent-color: #f5a623; 
+--card-color: #ffffff; 
+--text-color: #212529; 
+--background-color: rgb(248, 207, 158);
+--header-color: rgb(114, 177, 72);
+}
+
+
+body {
+background-color: var(--background-color);
+color: var(--text-color); 
+font-family: sans-serif; 
+padding: 40px; 
+}
+
+
+h1 {
+color: var(--primary-color); 
+font-size: 32px; 
+margin-bottom: 20px; 
+}
